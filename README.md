@@ -76,7 +76,7 @@ core-origin-main/
 
 ## Lizenz
 
-Dieses Projekt unterliegt der **Emergent License** (siehe `/02_licenses/emergent_license.md`).  
+Dieses Projekt unterliegt der **Emergent License**   [Emergent License](./02_licenses/emergent_license.md)
 Weitere Informationen zur Lizenz findest du in der Lizenzdatei.
 
 ---
