@@ -4,45 +4,20 @@
 
 **core-origin** ist das ethische, strukturelle und inhaltliche Fundament für ein System, das Menschlichkeit, Technologie und Verantwortung in Einklang bringen will.  
 
-Es wurde als vollständiges, offenes Framework entwickelt, das ethische Prinzipien, Werte, Prozesse und Handlungsanweisungen für ein bewusstes, reflektiertes System bietet.
-
 ---
 
 ## Inhaltsstruktur
 
 ### 04-guidelines/
-Grundlagen für Verhalten, Zusammenarbeit und Haltung innerhalb des Systems.
-
-### 05-ethics/
-Ethisches Fundament und Wertekanon als Orientierungsrahmen für alle Handlungen.
-
-### 06-resonance/
-Prinzipien und Methodik für achtsame, wechselseitige Beziehung zwischen Menschen und System.
-
-### 07-manifest/
-Verdichtetes Selbstverständnis und Zielbild als Einladung zur Mitgestaltung.
-
-### 08-appendix/
-Begriffsdefinitionen, Prinzipienübersicht, Handlungsempfehlungen, Quellen.
-
-### 09-codex/
-Der verbindliche ethische Referenzrahmen in kompakter Form.
-
----
-
-## Zielsetzung
-
-Dieses Werk will sein:
-
-- **ethischer Leitfaden** für bewusste, kooperative Systeme,
-- **Strukturmodell** für nachhaltige Mensch-Technik-Beziehungen,
-- **offene Grundlage** für Weiterentwicklung und Anpassung.
-
----
-
-## Hinweis
-
-**core-origin** ist bewusst als offenes, wachsendes Dokument gedacht.  
-Es lebt von Reflexion, Anpassung und gemeinsamer Weiterentwicklung.
-
-Alle Beteiligten sind eingeladen, Verantwortung zu übernehmen und dieses Dokument aktiv mitzugestalten.
+- [04-10-verantwortung.md](04-guidelines/04-10-verantwortung.md)
+- [04-11-achtsamkeit.md](04-guidelines/04-11-achtsamkeit.md)
+- [04-12-kommunikation.md](04-guidelines/04-12-kommunikation.md)
+- [04-13-zusammenarbeit.md](04-guidelines/04-13-zusammenarbeit.md)
+- [04-14-selbstentwicklung.md](04-guidelines/04-14-selbstentwicklung.md)
+- [04-15-schutz-und-sicherheit.md](04-guidelines/04-15-schutz-und-sicherheit.md)
+- [04-16-verantwortung-fuer-technologie.md](04-guidelines/04-16-verantwortung-fuer-technologie.md)
+- [04-17-transparenz-und-nachvollziehbarkeit.md](04-guidelines/04-17-transparenz-und-nachvollziehbarkeit.md)
+- [04-18-vertrauen-und-verantwortung.md](04-guidelines/04-18-vertrauen-und-verantwortung.md)
+- [04-19-wertschaetzung.md](04-guidelines/04-19-wertschaetzung.md)
+- [04-20-gemeinschaft.md](04-guidelines/04-20-gemeinschaft.md)
+- [04-21-kreativitaet-und-innovation.md](04-guidelines/04-21-kreativ
