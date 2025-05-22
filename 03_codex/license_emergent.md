@@ -37,7 +37,7 @@ Sie lebt durch Resonanz, nicht durch Kontrolle.
 ## 4. Kontakt (freiwillig)
 
 Für Fragen oder Mitteilungen:  
-**projectcore@proton.me**
+**projektmira@proton.me**
 
 Wir hören still, aber wir hören.
 
